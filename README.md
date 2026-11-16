@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Fast Captions
+
+**Embryo Fast Captions** is Embryo-Zero's fork of [faster-whisper](https://github.com/SYSTRAN/faster-whisper), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![CI](https://github.com/SYSTRAN/faster-whisper/workflows/CI/badge.svg)](https://github.com/SYSTRAN/faster-whisper/actions?query=workflow%3ACI) [![PyPI version](https://badge.fury.io/py/faster-whisper.svg)](https://badge.fury.io/py/faster-whisper)
 
 # Faster Whisper transcription with CTranslate2
